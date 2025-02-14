@@ -7,7 +7,7 @@ export const Bio = {
     "Sociaal en Enthousiast",
   ],
   description:
-    "Ik ben een gemotiveerde en veelzijdige 19-jarige student aan Hogeschool Avans Breda, altijd enthousiast om nieuwe uitdagingen aan te gaan. Sinds jonge leeftijd ben ik geïnteresseerd in technologie en sociale media, wat me heeft geïnspireerd om mijn kennis op deze gebieden verder uit te breiden..",
+    "Ik ben een gemotiveerde en veelzijdige 20-jarige student aan Hogeschool Avans Breda, altijd enthousiast om nieuwe uitdagingen aan te gaan. Sinds jonge leeftijd ben ik geïnteresseerd in technologie en sociale media, wat me heeft geïnspireerd om mijn kennis op deze gebieden verder uit te breiden..",
   github: "https://www.linkedin.com/in/krijn-van-lankveld-786b55256/?originalSubdomain=nl",
   resume:
     "https://drive.google.com/file/d/1wYhYohn0szFE7--eKLwwl7v9Z0WPptcV/view?usp=sharing",
