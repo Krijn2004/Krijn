@@ -2,7 +2,7 @@ export const Bio = {
   name: "Krijn van Lankveld",
   roles: [
     "Student ORM",
-    "19 jaar oud",
+    "20 jaar oud",
     "Wonend in Breda",
     "Sociaal en Enthousiast",
   ],
